@@ -52,6 +52,7 @@ html, body {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
+  background-position-y: 0;
 }
 
 .letter-lili {
